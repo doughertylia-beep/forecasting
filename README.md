@@ -5,7 +5,6 @@ Residential Building Permits and Consumer Confidence Index (CCI). The analysis a
 statistical diagnostics, and an ARIMAX (AutoRegressive Integrated Moving Average with Exogenous Variables) model to forecast GDP based on the two predictors.
 
 ***Project Structure***
-The workflow includes:
 - Data import and preparation
 - Exploratory Data Analysis (EDA)
 - Plotting time series trends for GDP, Permits, and CCI
